@@ -1,13 +1,15 @@
 {
-  "name": "MOD-NAME-HERE",
+  "name": "evr-molten-dust",
   "version": "0.0.1",
   "factorio_version": "2.0",
-  "title": "[MOD NAME HERE]",
-  "author": "",
+  "title": "Extended Vanilla: Refining - Dust Melting",
+  "author": "AzraelBunn",
   "contact": "",
   "homepage": "",
-  "description": "",
+  "description": "An addon for Extended Vanilla: Refining that adds melting recipes for ore dusts.",
   "dependencies": [
-    "base >= 2.0.21"
+    "base >= 2.0.77",
+    "ev-refining >= 3.5.1",
+    "? Krastorio2-spaced-out >= 1.6.18"
   ]
 }

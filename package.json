@@ -1,5 +1,5 @@
 {
-  "name": "your-project-name",
+  "name": "evr-molten-dust",
   "version": "0.0.0",
   "scripts": {
     "build": "tsx build.ts",

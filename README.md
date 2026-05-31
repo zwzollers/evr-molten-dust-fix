@@ -1,8 +1,2 @@
-# Delta-Template
-A template for more Delta Mods
-
-# IMPORTANT YOU FUCK
-## Required Stuff
-### Node
-### Pnpm
-### Factorio (duh)
+# Extended Vanilla: Refining - Dust Melting
+An addon for Extended Vanilla: Refining that adds melting recipes for ore dusts.
