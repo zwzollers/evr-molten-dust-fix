@@ -43,8 +43,8 @@ data:extend({
 	enabled = false,
 	energy_required = 24,
 	ingredients = {
-		{ type = "item", name = "copper-dust", amount = dust_ammount },
-		{ type = "item", name = "calcite", amount = 1 }
+		{ type = "item", name = "copper-dust", amount = dust_ammount }--,
+		--{ type = "item", name = "calcite", amount = 1 }
 	},
 	results = {
 		{ type = "fluid", name = "molten-copper", amount = molten_ammount},
@@ -76,8 +76,8 @@ if mods["Krastorio2-spaced-out"] then
 	enabled = false,
 	energy_required = 24,
 	ingredients = {
-		{ type = "item", name = "rare-metals-dust", amount = dust_ammount },
-		{ type = "item", name = "calcite", amount = 1 }
+		{ type = "item", name = "rare-metals-dust", amount = dust_ammount }--,
+		--{ type = "item", name = "calcite", amount = 1 }
 	},
 	results = {
 		{ type = "fluid", name = "kr-molten-rare-metals", amount = molten_ammount},
