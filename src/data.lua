@@ -20,8 +20,8 @@ data:extend({
 	enabled = false,
 	energy_required = 24,
 	ingredients = {
-		{ type = "item", name = "iron-dust", amount = dust_ammount },
-		{ type = "item", name = "calcite", amount = 1 }
+		{ type = "item", name = "iron-dust", amount = dust_ammount }--,
+		--{ type = "item", name = "calcite", amount = 1 }
 	},
 	results = {
 		{ type = "fluid", name = "molten-iron", amount = molten_ammount},
